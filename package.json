@@ -1,0 +1,16 @@
+{
+  "name": "modbot_twitchchat",
+  "version": "0.0.0",
+  "description": "A Twitch Moderator BOT",
+  "main": "src",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastian Skowron, CODELARK",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "tmi.js": "^1.8.3"
+  }
+}
